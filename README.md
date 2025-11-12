@@ -127,11 +127,19 @@ Transactional updates between two accounts simulate money transfer logic.
 # 🧾 Skills Demonstrated
 
 ✔ Database Design (DDL)
+
 ✔ Data Manipulation (DML)
+
 ✔ Data Constraints & Integrity
+
 ✔ Joins & Unions
+
 ✔ String & Date Functions
+
 ✔ Stored Procedures & Views
+
 ✔ Triggers & Auditing
+
 ✔ User Privileges (DCL)
+
 ✔ Transaction Control (TCL)
